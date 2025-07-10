@@ -25,7 +25,7 @@ Only the `u.item` file (movie metadata) is used here for content-based recommend
 The data analysis, model building, and experimentation in the Google Colab notebook:  
 [\[MovieRecommendationSystem.ipynb\]](https://colab.research.google.com/drive/1TdLUwAXSpnW-4roNa1LFtAJr7I3tuGLi?usp=sharing)
 
-
+_____
 ## 🖥️ How to Run
 
 ### Prerequisites:
