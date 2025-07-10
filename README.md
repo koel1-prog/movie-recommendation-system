@@ -40,4 +40,16 @@ Start the Streamlit app by running:
 
 ```bash
 streamlit run app.py
-``` 
+```
+---
+
+## 📷 Demo Screenshot
+
+![Demo Screenshot](demo_screenshot.jpg) <!-- replace with actual path if different -->
+
+---
+
+## 🎥 Demo Video
+
+[🎬 Watch the Demo](demo_video.mp4) <!-- replace with your actual video link (Google Drive, YouTube, etc.) -->
+
