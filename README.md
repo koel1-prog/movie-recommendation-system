@@ -10,8 +10,8 @@ It recommends movies based on **genre and title similarity** using TF-IDF and Co
 We use the **MovieLens 100K dataset** (`ml-100k`), which contains metadata about movies and user ratings.  
 Only the `u.item` file (movie metadata) is used here for content-based recommendations.
 
----
 
+---
 ## 🚀 How It Works
 
 1. Combines **movie title** and **genre** information.
@@ -19,6 +19,18 @@ Only the `u.item` file (movie metadata) is used here for content-based recommend
 3. Calculates **cosine similarity** between all movie content vectors.
 4. User inputs a movie name and release year (e.g., `"Copycat"`, `"1995"`).
 5. System finds top 5 most similar movies.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python**
+- **Pandas**, **NumPy**
+- **Scikit-learn**
+- **Streamlit**
+- **TF-IDF Vectorization** (via Scikit-learn)
+- **Cosine Similarity**
+
 
 ## 📝 Google Colab Notebook
 
