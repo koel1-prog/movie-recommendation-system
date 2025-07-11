@@ -45,11 +45,11 @@ streamlit run app.py
 
 ## 📷 Demo Screenshot
 
-![Demo Screenshot](demo_screenshot.jpg) <!-- replace with actual path if different -->
+![Demo Screenshot](demo_screenshot.jpg) 
 
 ---
 
 ## 🎥 Demo Video
 
-[🎬 Watch the Demo](demo_video.mp4) <!-- replace with your actual video link (Google Drive, YouTube, etc.) -->
+[🎬 Watch the Demo](demo_video.mp4) 
 
